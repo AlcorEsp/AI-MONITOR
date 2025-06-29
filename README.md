@@ -207,10 +207,7 @@ ROI:                      15,000% (savings vs monitoring cost)
 ## 📞 **Contact**
 
 **Scale AI Partnership Inquiries:**
-- 📧 **Email**: [your-email@domain.com](mailto:your-email@domain.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🔗 **Technical Demo**: [Schedule 20-minute demo](https://calendly.com/yourname)
-
+- 📧 **Email**: alejandroalcalacortes@gmail.com
 ---
 
 *Built with ❤️ for the Scale AI ecosystem*  
